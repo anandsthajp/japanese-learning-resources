@@ -3,7 +3,7 @@
 > A comprehensive, curated list of the best resources for learning Japanese. From complete beginners to advanced learners, find everything you need to master Japanese through immersion and structured study.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/japanese-learning-resources.svg?style=social&label=Star)](https://github.com/yourusername/japanese-learning-resources)
+[![GitHub stars](https://img.shields.io/github/stars/anandsthajp/japanese-learning-resources.svg?style=social&label=Star)](https://github.com/anandsthajp/japanese-learning-resources)
 
 ## Contents
 
