@@ -38,7 +38,6 @@
 - **[TMW's Guide to Learning Japanese](https://learnjapanese.moe/guide/)** - Popular immersion-focused guide
 - **[Tofugu's Learn Japanese Guide](https://www.tofugu.com/learn-japanese/)** - Comprehensive beginner roadmap
 - **[DJT Guide](https://djtguide.neocities.org/)** - Well-written immersion guide
-- **[Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)** - Reddit's official beginner guide
 
 ### Study Methodologies
 - **Immersion Learning** - Learn through consuming native content
