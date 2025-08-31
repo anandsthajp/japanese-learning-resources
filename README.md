@@ -51,7 +51,6 @@
 
 ### Free Comprehensive Courses
 - **[NHK World Easy Japanese](https://www.nhk.or.jp/lesson/)** - Official lessons by Japan's national broadcaster
-- **[Marugoto+](https://marugotoweb.jp/)** - Japan Foundation's official coursebook platform
 - **[Erin's Challenge](https://www.erin.jpf.go.jp/)** - Video-based interactive lessons
 - **[JF Japanese e-Learning Minato](https://minato-jf.jp/)** - Japan Foundation's learning platform
 
@@ -87,7 +86,7 @@
 ## Kanji Learning
 
 ### Recognition & Meaning
-- **[WaniKani](https://www.wanikani.com/)** - Gamified kanji learning system ($9/month)
+- **[WaniKani](https://www.wanikani.com/)** - Gamified kanji learning system
 - **[Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)** - Comprehensive Android kanji app
 - **[RTK Recognition](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)** - Simplified Remembering the Kanji
 
@@ -106,7 +105,7 @@
 - **[Tae Kim's Grammar Guide](https://guidetojapanese.org/learn/)** - Complete grammar from basics to advanced
 - **[IMABI](https://imabi.org/)** - Extremely comprehensive grammar reference
 - **[Maggie Sensei](https://maggiesensei.com/)** - Conversational grammar with cultural context
-- **[Human Japanese](http://www.humanjapanese.com/)** - Cultural approach to grammar learning ($10)
+- **[Human Japanese](http://www.humanjapanese.com/)** - Cultural approach to grammar learning for beginners
 
 ### SRS Grammar Practice
 - **[Bunpro](https://bunpro.jp/)** - Grammar SRS system with JLPT progression
@@ -142,8 +141,8 @@
 
 ### Intermediate & Advanced
 - **[ッツreader](https://reader.ttsu.app)** - Online book reader with Yomitan support
-- **[Satori Reader](https://www.satorireader.com/)** - Interactive reading platform ($8-15/month)
-- **[Crystal Hunters](https://crystalhunters.net/)** - Manga specifically for language learners
+- **[Satori Reader](https://www.satorireader.com/)** - Interactive reading platform
+- **[Crystal Hunters](https://crystalhuntersmanga.com/)** - Manga specifically for language learners
 - **[Aozora Bunko](https://www.aozora.gr.jp/)** - Free Japanese literature archive
 - **[Bunsuke](https://bunsuke.substack.com/)** - Literary snippets with translations
 
@@ -158,9 +157,7 @@
 
 ### Listening Practice
 - **[SuperNative](https://supernative.tv/)** - TV/movie clips for listening practice
-- **[Delvin](https://delvin.tokyo/)** - Authentic video content with subtitles
 - **[mykikitori](https://mykikitori.com/)** - Listening skill practice platform
-- **[Forvo](https://forvo.com/)** - Pronunciation dictionary with native audio
 
 ### Shadowing & Pronunciation
 - **[OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home)** - Online Japanese Accent Dictionary
@@ -178,9 +175,8 @@
 - **[English-Japanese Language Exchange Discord](https://discord.com/invite/NJJCYVD)** - Active community for practice
 
 ### Professional Tutoring
-- **[italki](https://www.italki.com/)** - Professional Japanese tutors ($10-30/hour)
+- **[italki](https://www.italki.com/)** - Professional Japanese tutors
 - **[Preply](https://preply.com/)** - Online Japanese lessons with verified teachers
-- **[Cambly](https://www.cambly.com/)** - Conversation practice with native speakers
 
 ---
 
@@ -188,8 +184,7 @@
 
 ### Handwriting & Stroke Order
 - **[Kanken Deck](https://ankiweb.net/shared/info/759825185)** - Kanji writing practice (Anki)
-- **[Skritter](https://skritter.com/)** - Handwriting practice app ($15/month)
-- **[Japanese Writer](https://japanese-writer.com/)** - Stroke order practice online
+- **[Skritter](https://skritter.com/)** - Handwriting practice app
 
 ### Composition Practice
 - **[Lang-8](http://lang-8.com/)** - Writing correction by native speakers
@@ -207,8 +202,6 @@
 
 ### Reading Aids
 - **[Language Learning with Netflix](https://languagelearningwithnetflix.com/)** - Dual subtitles for Netflix
-- **[IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi)** - Add readings to kanji
-- **[ReadNihon](https://chrome.google.com/webstore/detail/readnihon/aicdnhjfgdkajnnbhiabpjcdcapmkhnl)** - JLPT-level furigana generator
 
 ---
 
@@ -218,7 +211,6 @@
 - **[Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa)** - Clear grammar explanations
 - **[Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** - Unique grammar approach
 - **[Game Gengo](https://www.youtube.com/c/GameGengo)** - Learn through video games
-- **[Comprehensible Japanese](https://www.youtube.com/@ComprehensibleJapanese)** - Input-based lessons
 - **[ToKini Andy](https://www.youtube.com/@ToKiniAndy)** - N1 learner teaching grammar
 
 ### Japanese Content
@@ -234,7 +226,7 @@
 - **[JapanesePod101](https://www.japanesepod101.com/)** - Structured lessons for all levels
 - **[Learn Japanese Pod](https://learnjapanesepod.com/)** - Grammar-focused episodes
 - **[Nihongo con Teppei](https://nihongoconteppei.com/)** - Beginner-friendly stories
-- **[News in Slow Japanese](https://newsinslowjapanese.com/)** - Slower-paced news ($15/month)
+- **[News in Slow Japanese](https://newsinslowjapanese.com/)** - Slower-paced news
 
 ### Native Content
 - **[Bilingual News](https://bilingualnews.libsyn.com/)** - Japanese/English current events
@@ -248,13 +240,10 @@
 - **[Genki I & II](https://genki3.japantimes.co.jp/)** - Most popular beginner textbooks
   - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/) - Free online exercises
 - **[Minna no Nihongo](https://www.3anet.co.jp/np/)** - Immersive Japanese-only approach
-- **[Japanese for Busy People](https://www.kodansha-intl.com/)** - Fast-paced business-oriented
 - **[Marugoto](https://www.marugoto.org/)** - Japan Foundation's official textbook
 
 ### Intermediate/Advanced
 - **[Tobira](https://tobiraweb.9640.jp/)** - Gateway to advanced Japanese
-- **[An Integrated Approach to Intermediate Japanese](https://www.japantimes.co.jp/)** - University-level textbook
-- **[Quartet](https://www.japantimes.co.jp/bookclub/quartet/)** - Intermediate conversation focus
 
 ### Grammar References
 - **[Dictionary of Basic Japanese Grammar](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546)** - Essential grammar reference
@@ -266,35 +255,9 @@
 ## Communities & Practice
 
 ### Online Communities
-- **[r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/)** - Active Reddit community (1.5M+ members)
 - **[The Moe Way Discord](https://learnjapanese.moe/)** - Popular immersion learning community
 - **[WaniKani Community](https://community.wanikani.com/)** - Study group discussions
 - **[Japanese Language Stack Exchange](https://japanese.stackexchange.com/)** - Q&A for specific questions
-
-### Local Communities
-- **[Japan-America Societies](https://www.us-japan.org/)** - Local Japanese cultural organizations
-- **[Japanese Language Schools](https://www.japaneseschoolsusa.com/)** - Find local Japanese schools
-- **[Language Exchange Meetups](https://www.meetup.com/)** - In-person practice groups
-
----
-
-## News & Media
-
-### Simplified News
-- **[NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)** - Simplified news with furigana
-- **[Matcha](https://matcha-jp.com/easy)** - Tourism and culture articles
-- **[Web Japan](https://web-japan.org/)** - Government-sponsored cultural content
-
-### Native News Sources
-- **[NHK](https://www3.nhk.or.jp/)** - Japan's national broadcaster
-- **[Asahi Shimbun](https://www.asahi.com/)** - Major Japanese newspaper
-- **[Yomiuri Shimbun](https://www.yomiuri.co.jp/)** - Japan's largest newspaper
-- **[Mainichi Shimbun](https://mainichi.jp/)** - Daily newspaper with varied content
-
-### Streaming & Entertainment
-- **[AbemaTV](https://abema.tv/)** - Free Japanese streaming (Japan IP required)
-- **[GYAO!](https://gyao.yahoo.co.jp/)** - Free Japanese TV and movies
-- **[Jimaku.cc](https://jimaku.cc/)** - Japanese subtitles for anime
 
 ---
 
@@ -325,7 +288,6 @@
 
 ### Practice Resources
 - **[JLPT Sensei](https://jlptsensei.com/)** - Free practice tests and vocabulary
-- **[JTest4You](https://jtest4you.com/)** - Online practice exams
 - **[JLPT Boot Camp](https://www.jlptbootcamp.com/)** - Study strategies and tips
 - **[New Kanzen Master Series](https://www.3anet.co.jp/)** - Comprehensive JLPT preparation books
 
@@ -345,16 +307,10 @@
 - **[IMABI Classical Japanese](https://imabi.org/classicaljapanese.htm)** - Classical grammar lessons
 - **[Kobun Resources](https://kobun.weblio.jp/)** - Classical Japanese dictionary
 
-### Specialized Domains
-- **[Japanese with Anime](https://www.japanesewithanime.com/)** - Anime-specific language patterns
-- **[Business Japanese](https://www.coto.academy/business-japanese/)** - Professional communication
-- **[Medical Japanese](https://www.jpf.go.jp/e/project/japanese/education/resource/)** - Healthcare terminology
-- **[Academic Japanese](https://academicjapanese.jp/)** - University-level language
-
 ### Research & Analysis
 - **[Massif](https://massif.la/ja)** - Sentence search across multiple sources
 - **[Nadeshiko](https://nadeshiko.co/)** - Example sentences from media
 - **[Japanese Text Analyzer](https://sourceforge.net/projects/japanesetextana/)** - Text analysis tool
 - **[Natively](https://learnnatively.com/)** - Media difficulty ratings by community
 
-**Last Updated**: August 2025
+**Last Updated**: 31st August 2025
